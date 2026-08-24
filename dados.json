@@ -1,0 +1,23 @@
+{
+    "imagem1": "<img src='Adidas.jpg' width='100px'>",
+    "nome1": "Tênis Adidas",
+    "modelo1": "Branco",
+    "preco1": "$519,90",
+
+    "imagem2": "<img src='corrida.jpg' width='100px'>",
+    "nome2": "Tênis de corrida",
+    "modelo2": "Colorido",
+    "preco2": "$499,90",
+
+
+    "imagem3": "<img src='puma.jpg' width='100px'>",
+    "nome3": "Tênis Puma",
+    "modelo3": "Marrom",
+    "preco3": "$299,90"
+
+
+
+
+
+
+}

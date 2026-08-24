@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+button {
+    margin: 15px;
+    height: 40px;
+    background-color: limegreen;
+    border: none;
+}
